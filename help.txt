@@ -1,0 +1,10 @@
+first open the file using open
+
+ to re move special characters 
+click the remove characters button
+
+to calculate the value
+click the calculate value button
+
+close the file from the file menu
+exit
